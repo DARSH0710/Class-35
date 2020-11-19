@@ -1,2 +1,2 @@
-# Class-35
-Real time DATABASE MULTI PLAYER CAR RACING GAME
+# synchronousBallMovement
+Ball moving synchronously
